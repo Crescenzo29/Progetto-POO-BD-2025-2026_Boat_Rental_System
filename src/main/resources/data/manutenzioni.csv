@@ -1,0 +1,8 @@
+idManutenzione;dataInizio;dataFine;descrizione;stato;matricolaBarca
+301;28/08/2026;31/08/2026;Tagliando motore e sostituzione filtri;COMPLETATA;PO-M003
+302;10/09/2026;11/09/2026;Controllo periodico motore e impianto elettrico;PROGRAMMATA;NA-M002
+303;05/08/2026;06/08/2026;Controllo vela e attrezzatura di bordo;COMPLETATA;BA-V002
+304;24/08/2026;25/08/2026;Diagnosi guasto al sistema operativo;COMPLETATA;BA-M004
+305;02/09/2026;03/09/2026;Problema;PROGRAMMATA;BA-V002
+306;01/09/2026;01/09/2026;controllo generale;COMPLETATA;PO-M003
+307;02/09/2026;03/09/2026;controllo;PROGRAMMATA;NA-M001

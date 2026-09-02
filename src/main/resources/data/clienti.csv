@@ -1,0 +1,8 @@
+idCliente;nome;cognome;email;passwordHash;dataNascita;numeroPatenteNautica;dataScadenzaPatente
+1;Marco;Esposito;marco.esposito@demo.it;588c55f3ce2b8569b153c5abbf13f9f74308b88a20017cc699b835cc93195d16;12/04/1998;NA-2024-001;30/06/2030
+2;Giulia;Romano;giulia.romano@demo.it;588c55f3ce2b8569b153c5abbf13f9f74308b88a20017cc699b835cc93195d16;03/11/2001;;
+3;Luca;Bianchi;luca.bianchi@demo.it;588c55f3ce2b8569b153c5abbf13f9f74308b88a20017cc699b835cc93195d16;18/02/2000;NA-2025-015;31/12/2027
+4;Sara;Conti;sara.conti@demo.it;588c55f3ce2b8569b153c5abbf13f9f74308b88a20017cc699b835cc93195d16;21/07/2003;;
+5;Andrea;Ferraro;andrea.ferraro@demo.it;588c55f3ce2b8569b153c5abbf13f9f74308b88a20017cc699b835cc93195d16;09/09/1995;NA-2021-044;15/08/2026
+6;Elena;De Luca;elena.deluca@demo.it;588c55f3ce2b8569b153c5abbf13f9f74308b88a20017cc699b835cc93195d16;27/05/1999;NA-2023-102;20/10/2028
+7;Crescenzo;Napolano;renzo12@gmail.com;b8ce72e7b4bac7544e65fa4429be75a20741ce0fdc3bd7a847cb6bb167d99bfd;29/09/2006;NA 10203;20/03/2030

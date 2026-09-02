@@ -1,0 +1,5 @@
+idNoleggio;dataOraRitiro;dataOraRestituzione;noteRitiro;noteRestituzione;completatoCorrettamente;stato;idPrenotazione
+201;29/08/2026 09:00:00;01/09/2026 10:00:00;Imbarcazione consegnata in condizioni regolari;Barca restitutia corettamente;sì;TERMINATO;101
+202;10/08/2026 08:30:00;11/08/2026 17:45:00;Controllo iniziale completato;Restituzione senza anomalie;sì;TERMINATO;102
+203;20/08/2026 09:15:00;20/08/2026 18:10:00;Dotazioni verificate;Restituzione regolare;sì;TERMINATO;105
+204;01/09/2026 10:00:00;;nessun problema;;no;IN_CORSO;109
