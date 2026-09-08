@@ -1,0 +1,7 @@
+matricola;tipo;nome;capacitaPasseggeri;tariffaGiornaliera;richiedePatente;stato;indisponibileFinoAl;idSede;potenzaMotoreCV;capacitaSerbatoio;superficieVelica;altezzaAlbero
+NA-M001;MOTORE;Partenope;8;320.0;sì;DISPONIBILE;;1;250;400.0;;
+NA-M002;MOTORE;Vesuvio;6;240.0;sì;DISPONIBILE;;1;150;250.0;;
+PO-V001;VELA;Gaia;6;180.0;no;NOLEGGIATA;;2;;;48.0;15.0
+PO-M003;MOTORE;Miseno;5;200.0;no;DISPONIBILE;;2;40;120.0;;
+BA-V002;VELA;Sirena;4;160.0;no;DISPONIBILE;;3;;;35.0;12.5
+BA-M004;MOTORE;Nettuno;10;420.0;sì;FUORI_SERVIZIO;15/09/2026;3;400;600.0;;
